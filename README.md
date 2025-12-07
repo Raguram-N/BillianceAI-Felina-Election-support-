@@ -332,8 +332,7 @@ Violating PRs will be rejected.
 - Sensitive-targeting  
 
 ## ⚠️ Legal Disclaimer
-
-This is not legal advice.  
+  
 For final approval, consult:
 - A legal expert  
 - TRAI/DLT guidelines  
