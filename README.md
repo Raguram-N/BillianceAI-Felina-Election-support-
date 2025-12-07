@@ -138,42 +138,7 @@ Felina does **not** collect/store:
 
 ---
 
-## 4️⃣ Built-In Technical Safeguards
-
-### 🛡️ 1. Consent Engine
-- Timestamps  
-- Hashed proof of consent  
-- Validates before sending messages  
-
-### 🛡️ 2. Content Safety Filter
-Blocks:
-- Political content  
-- Persuasive content  
-- Targeted messaging  
-- Inducements  
-
-### 🛡️ 3. Targeting Restrictions
-Allowed:  
-- Location/ward  
-- Language preference  
-- User voluntary opt-in  
-
-Not allowed:  
-- Caste  
-- Religion  
-- Gender  
-- Political leaning  
-
-### 🛡️ 4. Human Review Layer
-- All outgoing messages require admin approval  
-
-### 🛡️ 5. Immutable Logs
-- Complete transcripts  
-- Audit-ready storage  
-
----
-
-## 5️⃣ Sample Safe Conversation Scripts
+## 4️⃣ Sample Safe Conversation Scripts
 
 <table>
 <tr>
@@ -258,6 +223,41 @@ Felina can legally:
 </td>
 </tr>
 </table>
+
+---
+
+## 5️⃣ Built-In Technical Safeguards
+
+### 🛡️ 1. Consent Engine
+- Timestamps  
+- Hashed proof of consent  
+- Validates before sending messages  
+
+### 🛡️ 2. Content Safety Filter
+Blocks:
+- Political content  
+- Persuasive content  
+- Targeted messaging  
+- Inducements  
+
+### 🛡️ 3. Targeting Restrictions
+Allowed:  
+- Location/ward  
+- Language preference  
+- User voluntary opt-in  
+
+Not allowed:  
+- Caste  
+- Religion  
+- Gender  
+- Political leaning  
+
+### 🛡️ 4. Human Review Layer
+- All outgoing messages require admin approval  
+
+### 🛡️ 5. Immutable Logs
+- Complete transcripts  
+- Audit-ready storage  
 
 ---
 
