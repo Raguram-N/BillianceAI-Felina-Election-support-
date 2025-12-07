@@ -48,7 +48,7 @@ Felina focuses strictly on:
 <img src="1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
-<td width="60%" valign="top">
+<td width="80%" valign="top">
 
 # 2️⃣ What Felina *Can Legally* Do
 
@@ -266,9 +266,9 @@ Felina can legally:
 <img src="13.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
-<td width="60%" valign="top">
+<td width="80%" valign="top">
 
-# 7️⃣ Code of Conduct
+# 6️⃣ Code of Conduct
 
 By contributing, you agree to:
 
@@ -279,7 +279,7 @@ By contributing, you agree to:
 
 Violating PRs will be rejected.
 
-# 6️⃣ Deployment Checklist
+#7️⃣  Deployment Checklist
 
 ## ✔ Legal Approvals
 - TRAI/DLT compliance check  
@@ -314,7 +314,7 @@ Violating PRs will be rejected.
 <img src="8.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
-<td width="60%" valign="top">
+<td width="80%" valign="top">
 
 # 9️⃣ Legal Appendix (Quick Rules)
 
@@ -352,7 +352,7 @@ For final approval, consult:
 <img src="7.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
-<td width="60%" valign="top">
+<td width="80%" valign="top">
 
 # ✅ Conclusion
 
