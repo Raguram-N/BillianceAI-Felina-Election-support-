@@ -1,15 +1,16 @@
 # 🤖 BillianceAI — Felina  
-### AI Assistant for Citizen Grievance Handling
+### AI Assistant for Citizen Grievance Handling - Transparent Neutral Tool
 
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="15.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
-**100% Legal • 100% Ethical • 100% Neutral Public-Service Tool**
+
+**Felina**
 
 Felina is an AI-powered citizen grievance assistant designed to help public service offices, municipalities, and helpdesks communicate with citizens responsibly.
 
@@ -17,21 +18,6 @@ It handles complaints, provides information, and improves service delivery — *
 
 This README follows strict legal-safe standards suitable for GitHub and public governance projects.
 
-</td>
-</tr>
-</table>
-
-
----
-
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="60%" valign="top">
 
 # 1️⃣ Vision
 
@@ -47,9 +33,7 @@ Felina focuses strictly on:
 ❌ No targeted outreach  
 
 **Tagline:**  
-> **“Inform, Listen, Resolve — With Transparency.”**
-
-Felina improves citizen service response efficiency while maintaining complete neutrality.
+> **“Inform, Listen, Resolve — 100% Legal • 100% Ethical** 
 
 </td>
 </tr>
@@ -61,7 +45,7 @@ Felina improves citizen service response efficiency while maintaining complete n
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -99,7 +83,7 @@ Felina improves citizen service response efficiency while maintaining complete n
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="12.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -114,9 +98,6 @@ Felina improves citizen service response efficiency while maintaining complete n
 - No inducements or benefits  
 - No personalised behaviour influence  
 
-</td>
-</tr>
-</table>
 
 ---
 
@@ -148,6 +129,10 @@ Felina does **not** collect/store:
 - All interactions logged  
 - Secure, tamper-proof storage  
 - Exportable for audit/RTI needs  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -190,7 +175,7 @@ Not allowed:
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="5.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -229,6 +214,21 @@ Would you like to receive it? Reply YES.
 A sanitation maintenance activity will take place on 15 Dec at 5 PM.
 Would you like a reminder? Reply YES to opt-in.
 
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="9.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 ### **5. Follow-Up (For Citizens Who Already Raised Complaints)**
 
 These interactions strictly follow service-based, consent-driven communication:
@@ -257,8 +257,27 @@ Felina can legally:
 </tr>
 </table>
 
-
 ---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="13.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
+# 7️⃣ Code of Conduct
+
+By contributing, you agree to:
+
+- Avoid political features  
+- Maintain full neutrality  
+- Not store sensitive data  
+- Keep transparency as default  
+
+Violating PRs will be rejected.
 
 # 6️⃣ Deployment Checklist
 
@@ -281,27 +300,6 @@ Felina can legally:
 - Validate filters  
 - Check multi-language readiness  
 
----
-
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="60%" valign="top">
-
-# 7️⃣ Code of Conduct
-
-By contributing, you agree to:
-
-- Avoid political features  
-- Maintain full neutrality  
-- Not store sensitive data  
-- Keep transparency as default  
-
-Violating PRs will be rejected.
 
 </td>
 </tr>
@@ -313,7 +311,7 @@ Violating PRs will be rejected.
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="8.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -333,11 +331,28 @@ Violating PRs will be rejected.
 - Inducements  
 - Sensitive-targeting  
 
+## ⚠️ Legal Disclaimer
+
+This is not legal advice.  
+For final approval, consult:
+- A legal expert  
+- TRAI/DLT guidelines  
+- Government IT policy  
+
 </td>
 </tr>
 </table>
 
 ---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="7.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 # ✅ Conclusion
 
@@ -355,13 +370,8 @@ While staying fully compliant with:
 
 A clean, safe, legally perfect AI for **citizen service — never politics**.
 
----
+</td>
+</tr>
+</table>
 
-## ⚠️ Legal Disclaimer
-
-This is not legal advice.  
-For final approval, consult:
-- A legal expert  
-- TRAI/DLT guidelines  
-- Government IT policy  
 
