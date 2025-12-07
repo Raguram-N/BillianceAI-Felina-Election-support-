@@ -171,13 +171,39 @@ You will receive updates here.
 
 
 ### **3. Information Request**
-I can share the official water-supply schedule for your area.
+**Citizen:** “Need Water supply schedule for my area”
+
+**Felina:**  I can share the official water-supply schedule for your area.
 Would you like to receive it? Reply YES.
 
 
 ### **4. Public Service Update**
 A sanitation maintenance activity will take place on 15 Dec at 5 PM.
 Would you like a reminder? Reply YES to opt-in.
+
+### **5. Follow-Up (For Citizens Who Already Raised Complaints)**
+
+These interactions strictly follow service-based, consent-driven communication:
+
+Felina can legally:
+
+> **Call citizens who previously raised complaints (service calls, not outreach)**
+
+- Ask clarifying questions to understand the issue better
+“Can you confirm the pole number near the damaged streetlight?”
+
+- Provide status updates on ongoing complaints
+“Your complaint is currently assigned to the electrical maintenance team.”
+
+- Verify resolution
+“Has the issue been fixed to your satisfaction?”
+
+- Escalate unresolved issues to the appropriate officer
+“This has been escalated to the Assistant Engineer for urgent action.”
+
+- Log every conversation for audit and transparency
+
+- Provide structured dashboards to MLA/MLC office staff for monitoring
 
 
 ---
