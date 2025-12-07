@@ -316,7 +316,7 @@ Violating PRs will be rejected.
 </td>
 <td width="80%" valign="top">
 
-## 9️⃣ Legal Appendix (Quick Rules)
+## 8️⃣ Legal Appendix (Quick Rules)
 
 ## ✔ Allowed
 - Grievance handling  
