@@ -1,5 +1,14 @@
 # 🤖 BillianceAI — Felina  
 ### AI Assistant for Citizen Grievance Handling
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 **100% Legal • 100% Ethical • 100% Neutral Public-Service Tool**
 
 Felina is an AI-powered citizen grievance assistant designed to help public service offices, municipalities, and helpdesks communicate with citizens responsibly.
@@ -8,21 +17,21 @@ It handles complaints, provides information, and improves service delivery — *
 
 This README follows strict legal-safe standards suitable for GitHub and public governance projects.
 
----
+</td>
+</tr>
+</table>
 
-## 📌 Table of Contents
-
-1. Vision  
-2. What Felina Can Do  
-3. Legal & Ethical Principles  
-4. Built-In Technical Safeguards  
-5. Sample Safe Scripts  
-6. Deployment Checklist  
-7. Code of Conduct  
-8. License  
-9. Legal Appendix  
 
 ---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 # 1️⃣ Vision
 
@@ -42,7 +51,20 @@ Felina focuses strictly on:
 
 Felina improves citizen service response efficiency while maintaining complete neutrality.
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 # 2️⃣ What Felina *Can Legally* Do
 
@@ -67,7 +89,20 @@ Felina improves citizen service response efficiency while maintaining complete n
 - Helpdesk info  
 - Departmental service updates  
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 # ❌ What Felina *Will Not* Do (Legally Prohibited)
 
@@ -78,6 +113,10 @@ Felina improves citizen service response efficiency while maintaining complete n
 - No targeting based on caste/religion/gender  
 - No inducements or benefits  
 - No personalised behaviour influence  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -147,6 +186,15 @@ Not allowed:
 
 ---
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 # 5️⃣ Sample Safe Conversation Scripts
 
 ### **1. Consent + Greeting**
@@ -205,6 +253,10 @@ Felina can legally:
 
 - Provide structured dashboards to MLA/MLC office staff for monitoring
 
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -231,6 +283,15 @@ Felina can legally:
 
 ---
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 # 7️⃣ Code of Conduct
 
 By contributing, you agree to:
@@ -242,13 +303,20 @@ By contributing, you agree to:
 
 Violating PRs will be rejected.
 
----
-
-# 8️⃣ License
-
-This project is licensed under the **MIT License**.
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 # 9️⃣ Legal Appendix (Quick Rules)
 
@@ -264,6 +332,10 @@ This project is licensed under the **MIT License**.
 - Persuasion  
 - Inducements  
 - Sensitive-targeting  
+
+</td>
+</tr>
+</table>
 
 ---
 
