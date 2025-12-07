@@ -19,7 +19,7 @@ It handles complaints, provides information, and improves service delivery — *
 This README follows strict legal-safe standards suitable for GitHub and public governance projects.
 
 
-# 1️⃣ Vision
+## 1️⃣ Vision
 
 Felina focuses strictly on:
 
@@ -50,25 +50,25 @@ Felina focuses strictly on:
 </td>
 <td width="80%" valign="top">
 
-# 2️⃣ What Felina *Can Legally* Do
+## 2️⃣ What Felina *Can Legally* Do
 
-## ✅ 1. Citizen Grievance Handling
+### ✅ 1. Citizen Grievance Handling
 - Log issues (roads, water, electricity, sanitation, ration, welfare, safety)  
 - Create service tickets  
 - Route complaints to relevant departments  
 - Share status updates  
 
-## ✅ 2. Provide Factual Public Information
+### ✅ 2. Provide Factual Public Information
 - Neutral, government-published information  
 - No recommendations, opinions, or interpretation  
 - No persuasion of any kind  
 
-## ✅ 3. Event & Service Notifications (Opt-In)
+### ✅ 3. Event & Service Notifications (Opt-In)
 - Helpdesk timings  
 - Public service camps  
 - Maintenance schedules  
 
-## ✅ 4. Non-Political WhatsApp Visual Decks
+### ✅ 4. Non-Political WhatsApp Visual Decks
 - Public-service instructions  
 - Helpdesk info  
 - Departmental service updates  
@@ -88,7 +88,7 @@ Felina focuses strictly on:
 </td>
 <td width="60%" valign="top">
 
-# ❌ What Felina *Will Not* Do (Legally Prohibited)
+## ❌ What Felina *Will Not* Do (Legally Prohibited)
 
 - No political content  
 - No vote solicitation  
@@ -101,7 +101,7 @@ Felina focuses strictly on:
 
 ---
 
-# 3️⃣ Legal & Ethical Principles (Strict)
+## 3️⃣ Legal & Ethical Principles (Strict)
 
 ### ✔ AI Transparency
 All messages clearly state:
@@ -136,21 +136,21 @@ Felina does **not** collect/store:
 
 ---
 
-# 4️⃣ Built-In Technical Safeguards
+## 4️⃣ Built-In Technical Safeguards
 
-## 🛡️ 1. Consent Engine
+### 🛡️ 1. Consent Engine
 - Timestamps  
 - Hashed proof of consent  
 - Validates before sending messages  
 
-## 🛡️ 2. Content Safety Filter
+### 🛡️ 2. Content Safety Filter
 Blocks:
 - Political content  
 - Persuasive content  
 - Targeted messaging  
 - Inducements  
 
-## 🛡️ 3. Targeting Restrictions
+### 🛡️ 3. Targeting Restrictions
 Allowed:  
 - Location/ward  
 - Language preference  
@@ -162,14 +162,16 @@ Not allowed:
 - Gender  
 - Political leaning  
 
-## 🛡️ 4. Human Review Layer
+### 🛡️ 4. Human Review Layer
 - All outgoing messages require admin approval  
 
-## 🛡️ 5. Immutable Logs
+### 🛡️ 5. Immutable Logs
 - Complete transcripts  
 - Audit-ready storage  
 
 ---
+
+## 5️⃣ Sample Safe Conversation Scripts
 
 <table>
 <tr>
@@ -179,8 +181,6 @@ Not allowed:
 
 </td>
 <td width="60%" valign="top">
-
-# 5️⃣ Sample Safe Conversation Scripts
 
 ### **1. Consent + Greeting**
 Hello! I am Felina, the Citizen Helpdesk AI Assistant.
@@ -268,7 +268,7 @@ Felina can legally:
 </td>
 <td width="80%" valign="top">
 
-# 6️⃣ Code of Conduct
+## 6️⃣ Code of Conduct
 
 By contributing, you agree to:
 
@@ -279,7 +279,7 @@ By contributing, you agree to:
 
 Violating PRs will be rejected.
 
-#7️⃣  Deployment Checklist
+## 7️⃣  Deployment Checklist
 
 ## ✔ Legal Approvals
 - TRAI/DLT compliance check  
@@ -316,7 +316,7 @@ Violating PRs will be rejected.
 </td>
 <td width="80%" valign="top">
 
-# 9️⃣ Legal Appendix (Quick Rules)
+## 9️⃣ Legal Appendix (Quick Rules)
 
 ## ✔ Allowed
 - Grievance handling  
