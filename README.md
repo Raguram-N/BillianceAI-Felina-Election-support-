@@ -1,5 +1,5 @@
 # 🤖 BillianceAI — Felina  
-### AI Assistant for Citizen Grievance Handling - Transparent Neutral Tool
+## AI Assistant for Citizen Grievance Handling - Transparent Neutral Tool
 
 <table>
 <tr>
