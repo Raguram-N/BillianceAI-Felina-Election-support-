@@ -1,5 +1,5 @@
 # 🤖 BillianceAI — Felina  
-## AI Assistant for Citizen Grievance Handling - Transparent Neutral Tool
+## 🎯 AI Assistant for Citizen Grievance Handling 
 
 <table>
 <tr>
@@ -17,6 +17,8 @@ Felina is an AI-powered citizen grievance assistant designed to help public serv
 It handles complaints, provides information, and improves service delivery — **without political messaging, persuasion, or targeted outreach**.
 
 This README follows strict legal-safe standards suitable for GitHub and public governance projects.
+
+> Transparent Neutral AI Tool
 
 
 ## 1️⃣ Vision
