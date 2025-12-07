@@ -10,7 +10,7 @@
 </td>
 <td width="60%" valign="top">
 
-**Felina**
+## Felina
 
 Felina is an AI-powered citizen grievance assistant designed to help public service offices, municipalities, and helpdesks communicate with citizens responsibly.
 
