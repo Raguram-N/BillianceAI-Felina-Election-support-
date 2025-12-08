@@ -462,7 +462,6 @@ Just 1% is enough to make the company extremely big and highly valuable.
 > If the total market is ₹50,000 crore,
 > **1% of it = ₹500 crore business.**
 
-- Even 1% of this → Unicorn-scale opportunity.
 
 </td>
 </tr>
