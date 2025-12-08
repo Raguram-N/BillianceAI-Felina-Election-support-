@@ -276,10 +276,20 @@ Violating PRs will be rejected.
 
 ---
 
+
 ## 📊 7️⃣ Market Opportunity
 
 Felina is not a political tool — it is a citizen service infrastructure that any public office can deploy.
 Every constituency, municipality, and department handles thousands of complaints monthly, creating a massive adoption potential.
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="9z.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 ### 🌍 A. Universal Demand Across India
 
@@ -311,6 +321,8 @@ Every one of them needs:
 
 ➡️ Felina fits every one of these use cases.
 
+---
+
 ### 🚀 B. One Deployment = Statewide Replication
 
 If Felina shows real improvement in even one region, it becomes a case study for:
@@ -327,6 +339,8 @@ If Felina shows real improvement in even one region, it becomes a case study for
 
 - Other MLAs/MP offices
 
+---
+
 ### 📈 C. Total Addressable Market (TAM)
 
 Segment	Count	Potential Deployments
@@ -339,6 +353,8 @@ Segment	Count	Potential Deployments
 
 > **Even 10% adoption → 50,000 deployments.**
 
+---
+
 ### 📲 D. WhatsApp = Zero-Friction Adoption
 
 - 480M+ WhatsApp users in India
@@ -348,6 +364,8 @@ Segment	Count	Potential Deployments
 - No new apps for citizens
 
 > Felina plugs directly into existing workflows.
+
+---
 
 ### 🔧 E. Pain Points Felina Solves
 
@@ -369,6 +387,8 @@ Felina provides:
 
 - Transparent dashboards
 
+---
+
 ### 💰 F. Revenue Potential (Neutral & Safe)
 
 Conservative model:
@@ -383,10 +403,25 @@ Conservative model:
 
 > **Unicorn-scale opportunity - a startup valued at $1 billion+**
 
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="9a.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 ### Practcally
 
 👉 The total potential market is so huge that
-even if your product captures just 1% of it,
+even if our product captures just 1% of it,
 the company’s valuation and revenue can grow to the level of a unicorn (a startup valued at $1 billion+).
 
 In simple words:
@@ -404,6 +439,8 @@ Just 1% is enough to make the company extremely big and highly valuable.
 
 - Even 1% of this → Unicorn-scale opportunity.
 
+---
+
 ### ⭐ G. Why Felina Wins
 
 - 100% neutral
@@ -419,6 +456,10 @@ Just 1% is enough to make the company extremely big and highly valuable.
 - Audit-ready
 
 > **No major competitor covers grievance handling with this legal & ethical safety focus.**
+
+</td>
+</tr>
+</table>
 
 ---
 
