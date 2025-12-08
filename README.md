@@ -81,64 +81,8 @@ Felina focuses strictly on:
 
 ---
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
 
-<img src="12.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="60%" valign="top">
-
-## ❌ What Felina *Will Not* Do (Legally Prohibited)
-
-- No political content  
-- No vote solicitation  
-- No opinion influence  
-- No promotion of any party/candidate  
-- No targeting based on caste/religion/gender  
-- No inducements or benefits  
-- No personalised behaviour influence  
-
-
----
-
-## 3️⃣ Legal & Ethical Principles (Strict)
-
-### ✔ AI Transparency
-All messages clearly state:
-
-### ✔ Consent-Based Communication
-- Explicit “YES” consent required  
-- “STOP” to unsubscribe  
-- No unsolicited messaging  
-
-### ✔ TRAI / DLT Compliance
-- Approved sender ID  
-- Approved message templates  
-- Strict anti-spam adherence  
-
-### ✔ No Sensitive Data Collection
-Felina does **not** collect/store:
-- Caste  
-- Religion  
-- Political affiliation  
-- Income  
-- Health data  
-- Voter preferences  
-
-### ✔ Immutable Audit Logs
-- All interactions logged  
-- Secure, tamper-proof storage  
-- Exportable for audit/RTI needs  
-
-</td>
-</tr>
-</table>
-
----
-
-## 4️⃣ Sample Safe Conversation Scripts
+## 3️⃣ Sample Safe Conversation Scripts
 
 <table>
 <tr>
@@ -219,6 +163,64 @@ Felina can legally:
 - Log every conversation for audit and transparency
 
 - Provide structured dashboards to MLA/MLC office staff for monitoring
+
+</td>
+</tr>
+</table>
+
+
+---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="12.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
+## ❌ What Felina *Will Not* Do (Legally Prohibited)
+
+- No political content  
+- No vote solicitation  
+- No opinion influence  
+- No promotion of any party/candidate  
+- No targeting based on caste/religion/gender  
+- No inducements or benefits  
+- No personalised behaviour influence  
+
+
+---
+
+## 4️⃣ Legal & Ethical Principles (Strict)
+
+### ✔ AI Transparency
+All messages clearly state:
+
+### ✔ Consent-Based Communication
+- Explicit “YES” consent required  
+- “STOP” to unsubscribe  
+- No unsolicited messaging  
+
+### ✔ TRAI / DLT Compliance
+- Approved sender ID  
+- Approved message templates  
+- Strict anti-spam adherence  
+
+### ✔ No Sensitive Data Collection
+Felina does **not** collect/store:
+- Caste  
+- Religion  
+- Political affiliation  
+- Income  
+- Health data  
+- Voter preferences  
+
+### ✔ Immutable Audit Logs
+- All interactions logged  
+- Secure, tamper-proof storage  
+- Exportable for audit/RTI needs  
 
 </td>
 </tr>
