@@ -286,7 +286,7 @@ Every constituency, municipality, and department handles thousands of complaints
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="9z.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="16.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -321,7 +321,20 @@ Every one of them needs:
 
 ➡️ Felina fits every one of these use cases.
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="17.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 ### 🚀 B. One Deployment = Statewide Replication
 
@@ -352,6 +365,10 @@ Segment	Count	Potential Deployments
 - Panchayats	250,000	Selective deployments
 
 > **Even 10% adoption → 50,000 deployments.**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -387,7 +404,21 @@ Felina provides:
 
 - Transparent dashboards
 
+
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="18.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 ### 💰 F. Revenue Potential (Neutral & Safe)
 
@@ -402,21 +433,6 @@ Conservative model:
 - Even 1% of this → Unicorn-scale opportunity.
 
 > **Unicorn-scale opportunity - a startup valued at $1 billion+**
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="9a.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="60%" valign="top">
 
 ### Practcally
 
@@ -433,11 +449,14 @@ You don’t need 50% or 20% or even 5% of it.
 Just 1% is enough to make the company extremely big and highly valuable.
 
 > Example:
-
 > If the total market is ₹50,000 crore,
 > **1% of it = ₹500 crore business.**
 
 - Even 1% of this → Unicorn-scale opportunity.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -456,10 +475,6 @@ Just 1% is enough to make the company extremely big and highly valuable.
 - Audit-ready
 
 > **No major competitor covers grievance handling with this legal & ethical safety focus.**
-
-</td>
-</tr>
-</table>
 
 ---
 
