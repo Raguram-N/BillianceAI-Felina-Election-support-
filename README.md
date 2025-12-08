@@ -381,6 +381,29 @@ Conservative model:
 
 - Even 1% of this → Unicorn-scale opportunity.
 
+> **Unicorn-scale opportunity - a startup valued at $1 billion+**
+
+### Practcally
+
+👉 The total potential market is so huge that
+even if your product captures just 1% of it,
+the company’s valuation and revenue can grow to the level of a unicorn (a startup valued at $1 billion+).
+
+In simple words:
+
+The market is massive.
+
+You don’t need 50% or 20% or even 5% of it.
+
+Just 1% is enough to make the company extremely big and highly valuable.
+
+> Example:
+
+> If the total market is ₹50,000 crore,
+> **1% of it = ₹500 crore business.**
+
+- Even 1% of this → Unicorn-scale opportunity.
+
 ### ⭐ G. Why Felina Wins
 
 - 100% neutral
