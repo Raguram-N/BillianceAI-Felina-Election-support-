@@ -276,7 +276,130 @@ Violating PRs will be rejected.
 
 ---
 
-## 7️⃣ Built-In Technical Safeguards
+## 📊 7️⃣ Market Opportunity
+
+Felina is not a political tool — it is a citizen service infrastructure that any public office can deploy.
+Every constituency, municipality, and department handles thousands of complaints monthly, creating a massive adoption potential.
+
+### 🌍 A. Universal Demand Across India
+
+India has:
+
+- 543 Lok Sabha constituencies
+
+- 4,100+ Assembly constituencies
+
+- 4,000+ Municipalities/Corporations
+
+- 766 District Collector Offices
+
+- 2.5 lakh Panchayats
+
+- Dozens of government departments per state
+
+Every one of them needs:
+
+- Grievance handling
+
+- Service request tracking
+
+- Transparent updates
+
+- Audit logs
+
+- Citizen communication
+
+➡️ Felina fits every one of these use cases.
+
+### 🚀 B. One Deployment = Statewide Replication
+
+If Felina shows real improvement in even one region, it becomes a case study for:
+
+- Municipal Commissioners
+
+- District collectors
+
+- State departments
+
+- Smart City Missions
+
+- Case studies drive rapid scaling.
+
+- Other MLAs/MP offices
+
+### 📈 C. Total Addressable Market (TAM)
+
+Segment	Count	Potential Deployments
+
+-  Lok Sabha Constituencies	543
+- Assembly Constituencies	4,100+
+- Municipalities	4,000+
+- District Collector Offices	766	
+- Panchayats	250,000	Selective deployments
+
+> **Even 10% adoption → 50,000 deployments.**
+
+### 📲 D. WhatsApp = Zero-Friction Adoption
+
+- 480M+ WhatsApp users in India
+
+- Government offices already use WhatsApp
+
+- No new apps for citizens
+
+> Felina plugs directly into existing workflows.
+
+### 🔧 E. Pain Points Felina Solves
+
+✔ High citizen footfall
+✔ Delayed resolutions
+✔ No ticket tracking
+✔ No audit logs
+✔ Staff overload
+
+Felina provides:
+
+- Automated complaint intake
+
+- Real-time updates
+
+- Department routing
+
+- Immutable logs
+
+- Transparent dashboards
+
+### 💰 F. Revenue Potential (Neutral & Safe)
+
+Conservative model:
+
+- ₹1,00,000 per office/year
+
+- 4,000 municipalities → ₹400 crore
+
+- 4,000 constituencies → ₹400 crore
+
+- Even 1% of this → Unicorn-scale opportunity.
+
+### ⭐ G. Why Felina Wins
+
+- 100% neutral
+
+- 100% TRAI/DLT compliant
+
+- WhatsApp-first
+
+- Multi-language
+
+- Highly scalable
+
+- Audit-ready
+
+> **No major competitor covers grievance handling with this legal & ethical safety focus.**
+
+---
+
+##  8️⃣ Built-In Technical Safeguards
 
 ### 🛡️ 1. Consent Engine
 - Timestamps  
@@ -320,7 +443,7 @@ Not allowed:
 </td>
 <td width="80%" valign="top">
 
-## 8️⃣ Legal Appendix (Quick Rules)
+## 9️⃣ Legal Appendix (Quick Rules)
 
 ## ✔ Allowed
 - Grievance handling  
