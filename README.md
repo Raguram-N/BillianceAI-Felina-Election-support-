@@ -228,7 +228,55 @@ Felina does **not** collect/store:
 
 ---
 
-## 5️⃣ Built-In Technical Safeguards
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="13.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="80%" valign="top">
+
+## 5️⃣ Code of Conduct
+
+By contributing, you agree to:
+
+- Avoid political features  
+- Maintain full neutrality  
+- Not store sensitive data  
+- Keep transparency as default  
+
+Violating PRs will be rejected.
+
+## 6️⃣ Deployment Checklist
+
+## ✔ Legal Approvals
+- TRAI/DLT compliance check  
+- Privacy & data retention policy review  
+
+## ✔ Technical Setup
+- WhatsApp Business API  
+- Helpdesk number  
+- Consent engine  
+- Logging & audit system  
+
+## ✔ Policy Setup
+- Transparency policy  
+- Data protection policy  
+
+## ✔ Dry Run
+- Test all scripts  
+- Validate filters  
+- Check multi-language readiness  
+
+
+</td>
+</tr>
+</table>
+
+---
+
+## 7️⃣ Built-In Technical Safeguards
 
 ### 🛡️ 1. Consent Engine
 - Timestamps  
@@ -260,54 +308,6 @@ Not allowed:
 ### 🛡️ 5. Immutable Logs
 - Complete transcripts  
 - Audit-ready storage  
-
----
-
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="13.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="80%" valign="top">
-
-## 6️⃣ Code of Conduct
-
-By contributing, you agree to:
-
-- Avoid political features  
-- Maintain full neutrality  
-- Not store sensitive data  
-- Keep transparency as default  
-
-Violating PRs will be rejected.
-
-## 7️⃣  Deployment Checklist
-
-## ✔ Legal Approvals
-- TRAI/DLT compliance check  
-- Privacy & data retention policy review  
-
-## ✔ Technical Setup
-- WhatsApp Business API  
-- Helpdesk number  
-- Consent engine  
-- Logging & audit system  
-
-## ✔ Policy Setup
-- Transparency policy  
-- Data protection policy  
-
-## ✔ Dry Run
-- Test all scripts  
-- Validate filters  
-- Check multi-language readiness  
-
-
-</td>
-</tr>
-</table>
 
 ---
 
