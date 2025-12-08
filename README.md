@@ -173,7 +173,7 @@ Felina can legally:
 
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
 <img src="12.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
@@ -230,7 +230,7 @@ Felina does **not** collect/store:
 
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
 <img src="13.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
@@ -284,7 +284,7 @@ Every constituency, municipality, and department handles thousands of complaints
 
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
 <img src="16.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
@@ -329,7 +329,7 @@ Every one of them needs:
 
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
 <img src="17.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
@@ -374,7 +374,7 @@ Segment	Count	Potential Deployments
 
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
 <img src="19.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
@@ -423,7 +423,7 @@ Felina provides:
 
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
 <img src="18.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
@@ -562,7 +562,7 @@ For final approval, consult:
 
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
 <img src="7.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
