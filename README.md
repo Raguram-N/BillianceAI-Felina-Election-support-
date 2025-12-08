@@ -1,5 +1,5 @@
 # 🤖 BillianceAI — Felina  
-## 🎯 AI Assistant for Citizen Grievance Handling 
+## 🎯 AI Assistant for Public Grievance Handling 
 
 <table>
 <tr>
