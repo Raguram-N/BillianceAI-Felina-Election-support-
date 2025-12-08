@@ -372,6 +372,16 @@ Segment	Count	Potential Deployments
 
 ---
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="19.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
+
 ### 📲 D. WhatsApp = Zero-Friction Adoption
 
 - 480M+ WhatsApp users in India
